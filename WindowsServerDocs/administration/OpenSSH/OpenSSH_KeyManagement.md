@@ -6,7 +6,9 @@ ms.topic: conceptual
 ms.author: damaerte
 author: maertendmsft
 ---
+> For those, who wants just to connect by ssh and don't spend for it 5 hours
 
+Just open your cmd and type: ssh -i <privet_key_location> username@host_name_or_ip
 # OpenSSH key management
 
 >Applies to Windows Server 2019, Windows 10: Windows Server 2022,
